@@ -1,0 +1,5 @@
+{
+    "username": "Roger",
+    "email": "rogeriojkn18@hotmail.com",
+    "password": "123"
+}
